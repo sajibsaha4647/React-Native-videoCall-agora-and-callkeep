@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171112552646",
+    "firebase_url": "https://myapi-1562217986995.firebaseio.com",
+    "project_id": "myapi-1562217986995",
+    "storage_bucket": "myapi-1562217986995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171112552646:android:f13ae3fb0c1596847bdfc7",
+        "android_client_info": {
+          "package_name": "com.japapmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171112552646-k1e8qmuti2b17bg64lq1b8rq4vc6sdkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkvNND7J2Z97CkNxi0d6It8aReu_DYDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171112552646-k1e8qmuti2b17bg64lq1b8rq4vc6sdkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
